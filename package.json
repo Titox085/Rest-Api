@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Titox085/Rest-Api#readme",
   "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongoose": "^6.1.1",
