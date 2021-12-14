@@ -27,5 +27,5 @@ mongoose.connect(
      ()=> console.log('connected to DB!')
 );
 
-//listening the server on port 3000
+//listening the server on port 8080
 app.listen(8080);
